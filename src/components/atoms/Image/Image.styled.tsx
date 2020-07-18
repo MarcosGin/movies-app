@@ -1,6 +1,5 @@
 import styled from '@emotion/styled'
 
-export const Wrapper = styled.main`
-  margin: 0 auto;
+export const Img = styled.img`
   width: 100%;
 `
